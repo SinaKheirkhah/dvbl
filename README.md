@@ -1,3 +1,2 @@
-# DVBL
-Damn Vulnerable Business Logic
-Examples of Business Logic Flaw Vulnerability
+# DVBL (Damn Vulnerable Business Logic)
+### Examples of Business Logic Flaw Vulnerability
